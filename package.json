@@ -7,13 +7,17 @@
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.484",
+    "@remotion/google-fonts": "^4.0.484",
+    "@remotion/tailwind-v4": "4.0.484",
     "@remotion/zod-types": "4.0.484",
+    "culori": "^4.0.2",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.484",
-    "zod": "4.3.6",
-    "@remotion/tailwind-v4": "4.0.484",
-    "tailwindcss": "4.0.0"
+    "remotion-bits": "^0.2.0",
+    "tailwindcss": "4.0.0",
+    "three": "^0.185.0",
+    "zod": "4.3.6"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.484",
