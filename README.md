@@ -11,6 +11,12 @@ Built with [`remotion-bits`](https://www.npmjs.com/package/remotion-bits)
 (animated text, counters, staggered motion, gradients), Tailwind v4, and the
 Fredoka Google Font.
 
+## Demo
+
+[![Watch the video on YouTube](assets/demo.png)](https://youtu.be/1dB3NU0TSko)
+
+▶️ **[Watch the full video on YouTube](https://youtu.be/1dB3NU0TSko)**
+
 ## Scenes
 
 1. **Hook** — "No language school required."
